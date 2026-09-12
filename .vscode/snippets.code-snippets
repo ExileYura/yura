@@ -1,6 +1,5 @@
 {
-
-"frame": {
+  "frame": {
     "scope": "markdown",
     "prefix": "frame",
     "body": [
@@ -15,8 +14,7 @@
       ""
     ]
   },
-
-"swap": {
+  "swap": {
     "scope": "markdown",
     "prefix": "b-swap",
     "body": [
@@ -27,8 +25,7 @@
       "  - Body Kit: "
     ]
   },
-
-"aero": {
+  "aero": {
     "scope": "markdown",
     "prefix": "b-aero",
     "body": [
@@ -38,8 +35,7 @@
       "  - Cosmetics - always up to taste."
     ]
   },
-
-"drivetrain": {
+  "drivetrain": {
     "scope": "markdown",
     "prefix": "b-drive",
     "body": [
@@ -50,8 +46,7 @@
       "  - Differential: "
     ]
   },
-
-"tires": {
+  "tires": {
     "scope": "markdown",
     "prefix": "b-tires",
     "body": [
@@ -65,8 +60,7 @@
       "  - Rim Style: Optimize for PI or Looks."
     ]
   },
-
-"platform": {
+  "platform": {
     "scope": "markdown",
     "prefix": "b-platform",
     "body": [
@@ -78,8 +72,7 @@
       "  - Weight Reduction: "
     ]
   },
-
-"engine": {
+  "engine": {
     "scope": "markdown",
     "prefix": "b-engine",
     "body": [
@@ -90,8 +83,7 @@
       "  - Flywheel: ",
     ]
   },
-
-"pressure": {
+  "pressure": {
     "scope": "markdown",
     "prefix": "t-pressure",
     "body": [
@@ -99,8 +91,7 @@
       "  - "
     ]
   },
-
-"alignment": {
+  "alignment": {
     "scope": "markdown",
     "prefix": "t-alignment",
     "body": [
@@ -109,8 +100,7 @@
       "- Front Caster: ",
     ]
   },
-
-"arb": {
+  "arb": {
     "scope": "markdown",
     "prefix": "t-arb",
     "body": [
@@ -118,8 +108,7 @@
       "  - "
     ]
   },
-
-"springs": {
+  "springs": {
     "scope": "markdown",
     "prefix": "t-springs",
     "body": [
@@ -127,74 +116,50 @@
       "- Ride Height |  | "
     ]
   },
-
-"damping": {
+  "damping": {
     "scope": "markdown",
     "prefix": "t-damping",
     "body": [
       "- Damping",
-      "  - Rebound",
-      "    - Front: $0",
-      "    - Rear: ",
-      "  - Bump",
-      "    - Front: ",
-      "    - Rear: "
+      "  - Rebound | $0 | ",
+      "  - Bump |  | "
     ]
   },
-
-"aero-tune": {
+  "aero-tune": {
     "scope": "markdown",
     "prefix": "t-aero",
     "body": [
-      "- Aero",
-      "  - Front: $0",
-      "  - Rear: "
+      "- Aero | $0 | "
     ]
   },
-
-"brakes": {
+  "brakes": {
     "scope": "markdown",
     "prefix": "t-brakes",
     "body": [
-      "- Brakes",
-      "  - Balance: $0",
-      "  - Pressure: "
+      "- Brakes | $0 | "
     ]
   },
-
-"diff-rwd": {
+  "diff-rwd": {
     "scope": "markdown",
     "prefix": "t-diff-rwd",
     "body": [
-      "- Differential",
-      "  - Rear",
-      "    - Acceleration: $0",
-      "    - Deceleration: "
+      "- Differential | $0 | "
     ]
   },
-
-"diff-fwd": {
+  "diff-fwd": {
     "scope": "markdown",
     "prefix": "t-diff-fwd",
     "body": [
-      "- Differential",
-      "  - Front",
-      "    - Acceleration: $0",
-      "    - Deceleration: "
+      "- Differential | $0 | "
     ]
   },
-
-"diff-awd": {
+  "diff-awd": {
     "scope": "markdown",
     "prefix": "t-diff-awd",
     "body": [
       "- Differential",
-      "  - Front",
-      "    - Acceleration: $0",
-      "    - Deceleration: ",
-      "  - Rear",
-      "    - Acceleration: ",
-      "    - Deceleration: ",
+      "  - Front | $0 | ",
+      "  - Rear |  | ",
       "  - Center Balance: "
     ]
   }
