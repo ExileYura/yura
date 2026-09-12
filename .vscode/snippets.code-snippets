@@ -1,13 +1,36 @@
 {
 "swap": {
     "scope": "markdown",
-    "prefix": "swap",
+    "prefix": "b-swap",
     "body": [
       "- Body Kits and Conversions",
       "  - Engine Swap: $0",
       "  - Aspiration: ",
       "  - Driveterrain: ",
       "  - Body Kit: "
+    ]
+  },
+
+"aero": {
+    "scope": "markdown",
+    "prefix": "b-aero",
+    "body": [
+    "- Aero and Appearance",
+    "  - Front Aero: $0",
+    "  - Rear Aero: ",
+    "  - Cosmetics - always up to taste."
+    ]
+  },
+
+"drivetrain": {
+    "scope": "markdown",
+    "prefix": "b-drive",
+    "body": [
+    "- Drivetrain",
+    "  - Clutch: Upgrade.",
+    "  - Transmission: $0",
+    "  - Driveline: Upgrade if PI allows it.",
+    "  - Differential: "
     ]
   },
 

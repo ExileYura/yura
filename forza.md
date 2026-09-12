@@ -2320,12 +2320,31 @@ Tuning:
   increasing pressure by 10-20 is great on most cars.
 
 # ExileYura's Powerslide Drifting Guide
-- Very early-stage, information-gathering is in progress. Refer to Touge and RWD drift guides to fill in missing information. 
+Information
 - This principle is the retarded little brother that you love, regardless of his limitations. It is very fun, but maybe don't tell anyone that you did it. 
 - Many of these cars will be on the more rigid side, using Simulated Steering, and tuning your car around that can help with better response for manji.
+- It's okay to not build these cars strictly to top of the class. Additionally, they are best in S2 and R class, where they can have very strong engines.
 
 Building
-
+- Body Kits and Conversions
+  - Engine Swap: Pick the strongest engine. Strong Torque.
+  - Aspiration: Anything consistent. Twin or Single Turbo with antilag are the best, Positive Displacement is okay. Centrifugal is weak.
+  - Driveterrain: AWD only - this guide only works with AWD.
+  - Body Kit: Up to taste.
+- Aero and Appearance
+  - Front Aero: Recommended - to make steering more responsive at high speed. Can be skipped for PI, we can optimize around not having it just fine.
+  - Rear Aero: Recommended skipping - it pushes down the rear end of the car, which we want loose. It might be good on fringe cases.
+  - Cosmetics - always up to taste.
+- Drivetrain
+  - Clutch: Upgrade.
+  - Transmission: Since we'll have a very strong engine and high torque, 7 speed is enough.
+  - Driveline: Upgrade if PI allows it.
+  - Differential: 
+    - Offroad / Rally: Worse manji, holds angle better. 
+      - Smoother on short wheelbase cars, I will take this 90% of the time.
+    - Drift: Better manji, throws angle fast. Needs more precision.
+      - Strategic pick on long wheelbase cars - feels worse than offroad, but gives very aggressive manji, so you can tune in more rigidity.
+      - I will take this for long wheelbase unless I'm building tandem.
 
 # ExileYura's (Partial) Guide for Road Racing
 
