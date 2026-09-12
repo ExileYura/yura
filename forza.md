@@ -2373,7 +2373,20 @@ Tuning
 - Alignment
   - Camber | -2.5 | -1.0 
   - Toe | 2.5 | 1.0 
-  - Front Caster: 7.0
+    - Ranges: 2.0 to 5.0 | -1.0 to 2.5.
+    - Open up front more to get into deeper angles, or close it if the front slips away in deep angles.
+    - Close up rear if you want more forward bite, open it up to let the rear sway more.
+  - Front Caster: 3.5
+    - Range is 2.0 to 6.5. You want to get this as low as possible without issues. Lower means more violent snap into angle, essentially giving easier manji, but hurting stability a lot. Higher is normally for straight-line stability, but you don't want to be stable here, even on high speeds - you don't want a high-setting caster angle to pull you back from your angle. 
+    - Short-wheelbase will usually need higher, long-wheelbase can get away with lower.
+- Anti-roll Bars
+  - Option 1 | 1.00 | 1.00
+  - Option 2 | 65.00 | 65.00
+  - I always pick one or the other, depending on whether I want more rigidity, or a more nimble and soft feel. For long wheelbase, option 2 tends to feel better. For short wheelbase, option 1 will give more aggressive response.
+- Springs
+  - Option 1 | 90.0 | 120.0 
+    - This is what I used on my Subaru.
+- Ride Height | min | min - if the CM numbers are not equal when both sliders set to minimum, adjust lower CM to higher CM.
 
 # ExileYura's (Partial) Guide for Road Racing
 

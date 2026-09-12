@@ -104,9 +104,9 @@
     "scope": "markdown",
     "prefix": "t-alignment",
     "body": [
-      "- Camber | $0 |  ",
-      "- Toe |  |  ",
-      "- Front Caster:  ",
+      "- Camber | $0 | ",
+      "- Toe |  | ",
+      "- Front Caster: ",
     ]
   },
 
@@ -114,9 +114,8 @@
     "scope": "markdown",
     "prefix": "t-arb",
     "body": [
-      "- Anti-roll Bars",
-      "  - Front: $0",
-      "  - Rear: "
+      "- Anti-roll Bars | $0 | ",
+      "  - "
     ]
   },
 
@@ -124,12 +123,8 @@
     "scope": "markdown",
     "prefix": "t-springs",
     "body": [
-      "- Springs",
-      "  - Front: $0",
-      "  - Rear: ",
-      "- Ride Height",
-      "  - Front: ",
-      "  - Rear: "
+      "- Springs | $0 | ",
+      "- Ride Height |  | "
     ]
   },
 
