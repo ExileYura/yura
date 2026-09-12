@@ -1,4 +1,16 @@
 {
+"swap": {
+    "scope": "markdown",
+    "prefix": "swap",
+    "body": [
+      "- Body Kits and Conversions",
+      "  - Engine Swap: $0",
+      "  - Aspiration: ",
+      "  - Driveterrain: ",
+      "  - Body Kit: "
+    ]
+  },
+
 "Row": {
     "scope": "markdown",
     "prefix": "row",

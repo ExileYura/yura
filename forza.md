@@ -2322,6 +2322,10 @@ Tuning:
 # ExileYura's Powerslide Drifting Guide
 - Very early-stage, information-gathering is in progress. Refer to Touge and RWD drift guides to fill in missing information. 
 - This principle is the retarded little brother that you love, regardless of his limitations. It is very fun, but maybe don't tell anyone that you did it. 
+- Many of these cars will be on the more rigid side, using Simulated Steering, and tuning your car around that can help with better response for manji.
+
+Building
+
 
 # ExileYura's (Partial) Guide for Road Racing
 
