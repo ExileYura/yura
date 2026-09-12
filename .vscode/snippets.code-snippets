@@ -1,4 +1,21 @@
 {
+
+"frame": {
+    "scope": "markdown",
+    "prefix": "frame",
+    "body": [
+      "Information",
+      "- $0",
+      "",
+      "Building",
+      "",
+      "",
+      "Tuning",
+      "",
+      ""
+    ]
+  },
+
 "swap": {
     "scope": "markdown",
     "prefix": "b-swap",
@@ -78,9 +95,8 @@
     "scope": "markdown",
     "prefix": "t-pressure",
     "body": [
-      "- Tire Pressure",
-      "  - Front: $0",
-      "  - Rear: "
+      "- Tire Pressure | $0 BAR |  BAR",
+      "  - "
     ]
   },
 
@@ -88,14 +104,9 @@
     "scope": "markdown",
     "prefix": "t-alignment",
     "body": [
-      "- Alignment",
-      "  - Camber",
-      "    - Front: $0",
-      "    - Rear: ",
-      "  - Toe",
-      "    - Front: ",
-      "    - Rear: ",
-      "  - Front Caster: "
+      "- Camber | $0 |  ",
+      "- Toe |  |  ",
+      "- Front Caster:  ",
     ]
   },
 

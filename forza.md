@@ -2366,6 +2366,15 @@ Building
   - Intercooler and Oil: If Power to Weight read is optimal.
   - Flywheel: Skip.
 
+Tuning
+- Tire Pressure | 2.5 BAR | 3.0 BAR
+  - Front for ease of turning - higher is better manji. Leave this at 2.5 outside of troubleshooting.
+  - Rear - higher for more slip - lower for more grip. Usual range: 2.0 to 3.5.
+- Alignment
+  - Camber | -2.5 | -1.0 
+  - Toe | 2.5 | 1.0 
+  - Front Caster: 7.0
+
 # ExileYura's (Partial) Guide for Road Racing
 
 I'm not all that golden in road tuning, but I'll do my best to express
