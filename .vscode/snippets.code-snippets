@@ -74,61 +74,122 @@
     ]
   },
 
-"Row": {
+"pressure": {
     "scope": "markdown",
-    "prefix": "row",
+    "prefix": "t-pressure",
     "body": [
-      "<tr>$0</tr>"
+      "- Tire Pressure",
+      "  - Front: $0",
+      "  - Rear: "
     ]
   },
 
-"Val": {
+"alignment": {
     "scope": "markdown",
-    "prefix": "val",
+    "prefix": "t-alignment",
     "body": [
-      "<td>$0</td>"
+      "- Alignment",
+      "  - Camber",
+      "    - Front: $0",
+      "    - Rear: ",
+      "  - Toe",
+      "    - Front: ",
+      "    - Rear: ",
+      "  - Front Caster: "
     ]
   },
 
-"Header": {
+"arb": {
     "scope": "markdown",
-    "prefix": "header",
+    "prefix": "t-arb",
     "body": [
-      "<th>$0</th>"
+      "- Anti-roll Bars",
+      "  - Front: $0",
+      "  - Rear: "
     ]
   },
 
-"comment": {
-	"scope": "markdown",
-	"prefix": "comment",
-	"body": [
-		"<td colspan=\"3\">$0</td>"
-	]
-	},
-
-"Three Element Row": {
+"springs": {
     "scope": "markdown",
-    "prefix": "row3",
+    "prefix": "t-springs",
     "body": [
-      "<tr> <th>one</th> <th>two</th> <th>three</th> </tr>"
+      "- Springs",
+      "  - Front: $0",
+      "  - Rear: ",
+      "- Ride Height",
+      "  - Front: ",
+      "  - Rear: "
     ]
   },
 
-"Four Element Row": {
+"damping": {
     "scope": "markdown",
-    "prefix": "row4",
+    "prefix": "t-damping",
     "body": [
-      "<tr> <th>one</th> <th>two</th> <th>three</th> <th>four</th> </tr>"
+      "- Damping",
+      "  - Rebound",
+      "    - Front: $0",
+      "    - Rear: ",
+      "  - Bump",
+      "    - Front: ",
+      "    - Rear: "
     ]
   },
-  
-  "Table and Basic Header": {
+
+"aero-tune": {
     "scope": "markdown",
-    "prefix": "table",
+    "prefix": "t-aero",
     "body": [
-      "<table>",
-      "<tr> <th>one</th> <th>two</th> <th>three</th> <th>four</th> </tr>",
-      "</table>"
+      "- Aero",
+      "  - Front: $0",
+      "  - Rear: "
+    ]
+  },
+
+"brakes": {
+    "scope": "markdown",
+    "prefix": "t-brakes",
+    "body": [
+      "- Brakes",
+      "  - Balance: $0",
+      "  - Pressure: "
+    ]
+  },
+
+"diff-rwd": {
+    "scope": "markdown",
+    "prefix": "t-diff-rwd",
+    "body": [
+      "- Differential",
+      "  - Rear",
+      "    - Acceleration: $0",
+      "    - Deceleration: "
+    ]
+  },
+
+"diff-fwd": {
+    "scope": "markdown",
+    "prefix": "t-diff-fwd",
+    "body": [
+      "- Differential",
+      "  - Front",
+      "    - Acceleration: $0",
+      "    - Deceleration: "
+    ]
+  },
+
+"diff-awd": {
+    "scope": "markdown",
+    "prefix": "t-diff-awd",
+    "body": [
+      "- Differential",
+      "  - Front",
+      "    - Acceleration: $0",
+      "    - Deceleration: ",
+      "  - Rear",
+      "    - Acceleration: ",
+      "    - Deceleration: ",
+      "  - Center Balance: "
     ]
   }
 }
