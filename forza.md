@@ -2168,7 +2168,7 @@ Building
   - Cosmetics - always up to taste.
 - Drivetrain
   - Clutch: Upgrade.
-  - Transmission: Since we'll have a very strong engine and high torque, 7 speed is enough.
+  - Transmission: Since the torque pulls you out, 7 is usually enough. But if you have high (400+ km/h) top speed, 8 or 9 is your best bet.
   - Driveline: Upgrade if PI allows it.
   - Differential
     - Offroad / Rally: Worse manji, holds angle better.
@@ -2204,7 +2204,7 @@ Tuning
 - Alignment
   - Camber | -2.5 | -1.0
   - Toe | 2.5 | 1.0
-    - Ranges: 2.0 to 5.0 | -1.0 to 2.5.
+    - Ranges: 1.5 to 5.0 | -1.0 to 2.5.
     - Open up front more to get into deeper angles, or close it if the front slips away in deep angles.
     - Close up rear if you want more forward bite, open it up to let the rear sway more.
   - Front Caster: 3.5
@@ -2215,8 +2215,10 @@ Tuning
   - Option 2 | 65.00 | 65.00
   - I always pick one or the other, depending on whether I want more rigidity, or a more nimble and soft feel. For long wheelbase, option 2 tends to feel better. For short wheelbase, option 1 will give more aggressive response.
 - Springs
-  - Option 1 | 90.0 | 120.0
-    - This is what I used on my Subaru.
+  - Springs
+    - Option 1 | 90.0 | 120.0 | This is what I used on my Subaru. This goes for rigidity, but also front is softer so mech. balance is high, giving you very quick manji.
+    - Option 2 | 110.0 | 50.0 | This is what I used on my Jaguar. Plants the rear wheels, and it becomes very consistent mid-corner.
+    - The above two settings are just a guideline, not strict values to set. Realistically, this will depend on how much rigidity or mech-balance we need. Very car-dependent.
   - Ride Height | min | min | If the CM numbers are not equal when both sliders set to minimum, adjust lower CM to higher CM.
 - Damping
   - Rebound | 8 | 8
@@ -2227,7 +2229,7 @@ Tuning
 - Brakes | 70% | 60%
   - Increase Braking Force up to a 100% in increments of 10 if you need more response. Really car dependant.
 - Differential
-  - Front | 40 | 60
+  - Front | 50 | 60
     - Front acceleration can go up to 70 if you want the front tires to slip more on throttle. Keep decel at least 10 point higher.
   - Rear | 92 | 92
     - Rear accel and decel should always be the same value. Range is 82 to 97, depending on how will you can control the car. If the rear is hard to tame, reduce. If you want more sway mid-corner, increase.

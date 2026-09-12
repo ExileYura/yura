@@ -112,8 +112,9 @@
     "scope": "markdown",
     "prefix": "t-springs",
     "body": [
-      "- Springs | $0 | ",
-      "- Ride Height |  | "
+      "- Springs",
+      "  - Springs | $0 | ",
+      "  - Ride Height |  | "
     ]
   },
   "damping": {
