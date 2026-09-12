@@ -49,6 +49,7 @@ Please select what you need assistance with, and tell me how to proceed.
     - Driving profile?
     - Cornering style?
     - Sluggish or nimble?
+    - Short wheelbase or long wheelbase?
     - Where is the engine? (Front / Mid / Rear)
   - Driveterrain:
     - Heavy influence on which guides you can use.
@@ -2339,12 +2340,31 @@ Building
   - Clutch: Upgrade.
   - Transmission: Since we'll have a very strong engine and high torque, 7 speed is enough.
   - Driveline: Upgrade if PI allows it.
-  - Differential: 
+  - Differential
     - Offroad / Rally: Worse manji, holds angle better. 
       - Smoother on short wheelbase cars, I will take this 90% of the time.
     - Drift: Better manji, throws angle fast. Needs more precision.
       - Strategic pick on long wheelbase cars - feels worse than offroad, but gives very aggressive manji, so you can tune in more rigidity.
       - I will take this for long wheelbase unless I'm building tandem.
+- Tires and Rims
+  - Tire Compound: You can use Extraa's research, but 90% of the time you'll go with Drift Compound, because we tune in a lot of power.
+  - Tire Width
+    - Front: If you have lots of HP, start around 300s. If you're building a lower-end car, start around 250s. 
+    - Rear: Generally, ~20 points thinner than front to make it very loose.
+  - Rim Size: Largely up to taste, but front 1 or 2 sizes bigger than rear is mechanically best.
+  - Engine Spacers: Up to taste.
+  - Rim Style: Optimize for PI or Looks.
+- Platform and Handling
+  - Brakes: Always.
+  - Spring and Dampers: Drift.
+  - Anti-roll Bars: Always.
+  - Roll Cage: Take 1 or 2 upgrades for rigidity, but never the full cage because it's heavy.
+  - Weight Reduction: Max.
+- Engine
+  - Optimal Upgrade Order: Weight Reduction > Exhaust > Displacement > Turbo > Rest.
+  - Antilag: Always.
+  - Intercooler and Oil: If Power to Weight read is optimal.
+  - Flywheel: Skip.
 
 # ExileYura's (Partial) Guide for Road Racing
 

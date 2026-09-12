@@ -15,10 +15,10 @@
     "scope": "markdown",
     "prefix": "b-aero",
     "body": [
-    "- Aero and Appearance",
-    "  - Front Aero: $0",
-    "  - Rear Aero: ",
-    "  - Cosmetics - always up to taste."
+      "- Aero and Appearance",
+      "  - Front Aero: $0",
+      "  - Rear Aero: ",
+      "  - Cosmetics - always up to taste."
     ]
   },
 
@@ -26,11 +26,51 @@
     "scope": "markdown",
     "prefix": "b-drive",
     "body": [
-    "- Drivetrain",
-    "  - Clutch: Upgrade.",
-    "  - Transmission: $0",
-    "  - Driveline: Upgrade if PI allows it.",
-    "  - Differential: "
+      "- Drivetrain",
+      "  - Clutch: Upgrade.",
+      "  - Transmission: $0",
+      "  - Driveline: Upgrade if PI allows it.",
+      "  - Differential: "
+    ]
+  },
+
+"tires": {
+    "scope": "markdown",
+    "prefix": "b-tires",
+    "body": [
+      "- Tires and Rims",
+      "  - Tire Compound: $0",
+      "  - Tire Width",
+      "    - Front: ",
+      "    - Rear: ",
+      "  - Rim Size: ",
+      "  - Engine Spacers: Up to taste.",
+      "  - Rim Style: Optimize for PI or Looks."
+    ]
+  },
+
+"platform": {
+    "scope": "markdown",
+    "prefix": "b-platform",
+    "body": [
+      "- Platform and Handling",
+      "  - Brakes: $0",
+      "  - Spring and Dampers: ",
+      "  - Anti-roll Bars: Always.",
+      "  - Roll Cage: ",
+      "  - Weight Reduction: "
+    ]
+  },
+
+"engine": {
+    "scope": "markdown",
+    "prefix": "b-engine",
+    "body": [
+      "- Engine",
+      "  - Optimal Upgrade Order: $0",
+      "  - Antilag: ",
+      "  - Intercooler and Oil: If Power to Weight read is optimal.",
+      "  - Flywheel: ",
     ]
   },
 
