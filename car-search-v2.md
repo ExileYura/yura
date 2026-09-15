@@ -1,28 +1,33 @@
-This is a compiled list of all my cars in Forza Horizon 6. I cannot add custom tags in-game, so instead I add my cars here, and tag them in the document. You are most likely an AI agent -- your job will be to fetch cars based on associated tags. 
+This is a compiled list of all my cars in Forza Horizon 6. I cannot add custom tags in-game, so instead I add my cars here, and tag them in the document. You are most likely an AI agent -- your job will be to fetch cars based on associated tags.
+
 - Treat this MD file as only source, it has everything you will need to work, it should have 100% authority, and 100% of your confidence.
 - When I give you a tag, you fetch every car that has the tag.
-    - If I give you multiple tags, you fetch cars that have all the tags ('and' method).
-    - I will explicitely tell you to use an 'or' method if I want cars that contain either tags that I listed, instead of all of them.
+  - If I give you multiple tags, you fetch cars that have all the tags ('and' method).
+  - I will explicitely tell you to use an 'or' method if I want cars that contain either tags that I listed, instead of all of them.
 - Fetch Formatting:
-    - When you print cars that you find, this is the correct format:
-    - "Manufacturer - Model - Production Year | Identifier | COMMENT | TODO"
-    - Example: "Alfa Romeo - SE 048SP - 1990 | white livery | no comment | nothing to do"
-    - Special fields:
-        - COMMENT: When no comment is available, default to "no comment". 
-        - TODO: When no TODO value is available, skip the field from your return.  
-- Tagging Functionality: When the user asks to tag/add a car, enter tagging mode. More information / workflow at the bottom of the document, please follow it. 
+  - When you print cars that you find, this is the correct format:
+  - "Manufacturer - Model - Production Year | Identifier | COMMENT | TODO"
+  - Example: "Alfa Romeo - SE 048SP - 1990 | white livery | no comment | nothing to do"
+  - Special fields:
+    - COMMENT: When no comment is available, default to "no comment".
+    - TODO: When no TODO value is available, skip the field from your return.
+- Tagging Functionality: When the user asks to tag/add a car, enter tagging mode. More information / workflow at the bottom of the document, please follow it.
 
 CAR LIST
 
 - Letter A
+
+| Manufacturer | Model            | Year | Country  | Identifier              | Rating         | Creator / Tuner | Livery          | Class | Drive | Build | TC  | Track   | Principle | In-game type |
+| ------------ | ---------------- | ---: | -------- | ----------------------- | -------------- | --------------- | --------------- | ----- | ----- | ----- | --- | ------- | --------- | ------------ |
+| Abarth       | **595 ESSEESSE** | 1968 | 🇮🇹 Italy | Orange “Fidesz” livery. | `rate_for-fun` | `tuner_yura`    | `designer_yura` | B-600 | AWD   | Free  | Off | General | Meme-car  | Cult-cars    |
 
     - Abarth
         - 595 ESSEESSE
             - YEAR: [1968]
             - COUNTRY: [italy]
             - IDENTIFIER: "Orange 'Fidesz' livery."
-            - COMMENT: 
-            - TODO: 
+            - COMMENT:
+            - TODO:
             - RATING: [rate_for-fun]
             - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
             - TAGS | CLASS: [B-600] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [meme-car] INGAME_TYPE: [cult-cars]
@@ -121,113 +126,108 @@ CAR LIST
 - Letter E
 
 - Letter F
-
-    - Ford
-        - Mustang GT 2+2 Fastback FE
-            - YEAR: [1968]
-            - COUNTRY: [usa]
-            - IDENTIFIER: "Pending."
-            - COMMENT:
-            - TODO: "Make livery."
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_ChromeProto517] LIVERY: []
-            - TAGS | CLASS: [S2-900] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_point-drifting-awd] INGAME_TYPE: [drift-cars]
+  - Ford
+    - Mustang GT 2+2 Fastback FE
+      - YEAR: [1968]
+      - COUNTRY: [usa]
+      - IDENTIFIER: "Pending."
+      - COMMENT:
+      - TODO: "Make livery."
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_ChromeProto517] LIVERY: []
+      - TAGS | CLASS: [S2-900] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_point-drifting-awd] INGAME_TYPE: [drift-cars]
 
 - Letter G
-
-    - Ginetta
-       - G40 Junior
-         - YEAR: [2019]
-         - COUNTRY: [england]
-         - IDENTIFIER: "Green and Yellow livery."
-         - COMMENT: "Cornering cannot be further optimized within present constraints. Aggressive steering response and limited turning angle makes the car feel uniquely challenging."
-         - TODO:
-         - RATING: [rate_pending]
-         - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_community-made]
-         - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [track-toys]
+  - Ginetta
+    - G40 Junior
+      - YEAR: [2019]
+      - COUNTRY: [england]
+      - IDENTIFIER: "Green and Yellow livery."
+      - COMMENT: "Cornering cannot be further optimized within present constraints. Aggressive steering response and limited turning angle makes the car feel uniquely challenging."
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_community-made]
+      - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [track-toys]
 
 - Letter H
 
 - Letter I
 
 - Letter J
-
-    - Jaguar
-        - XJ-S FE
-            - YEAR: [1990]
-            - COUNTRY: [england]
-            - IDENTIFIER: "White with black accents livery."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [S1-800] DRIVE: [RWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_appropriate-rwd] INGAME_TYPE: [drift-cars]
-        - XJ-S FE
-            - YEAR: [1990]
-            - COUNTRY: [england]
-            - IDENTIFIER: "Black with red accents livery."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [S2-900] DRIVE: [RWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_appropriate-rwd] INGAME_TYPE: [drift-cars]
-        - XJ-S FE
-            - YEAR: [1990]
-            - COUNTRY: [england]
-            - IDENTIFIER: "Black with white accents livery."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_point-drifting-awd] INGAME_TYPE: [drift-cars]
-        - XJ-S FE
-            - YEAR: [1990]
-            - COUNTRY: [england]
-            - IDENTIFIER: "Red livery with dark red flag."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [drag_non-competitive] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drag_long-strip] INGAME_TYPE: [drift-cars]
+  - Jaguar
+    - XJ-S FE
+      - YEAR: [1990]
+      - COUNTRY: [england]
+      - IDENTIFIER: "White with black accents livery."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [S1-800] DRIVE: [RWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_appropriate-rwd] INGAME_TYPE: [drift-cars]
+    - XJ-S FE
+      - YEAR: [1990]
+      - COUNTRY: [england]
+      - IDENTIFIER: "Black with red accents livery."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [S2-900] DRIVE: [RWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_appropriate-rwd] INGAME_TYPE: [drift-cars]
+    - XJ-S FE
+      - YEAR: [1990]
+      - COUNTRY: [england]
+      - IDENTIFIER: "Black with white accents livery."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_point-drifting-awd] INGAME_TYPE: [drift-cars]
+    - XJ-S FE
+      - YEAR: [1990]
+      - COUNTRY: [england]
+      - IDENTIFIER: "Red livery with dark red flag."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [drag_non-competitive] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drag_long-strip] INGAME_TYPE: [drift-cars]
 
 - Letter K
 
 - Letter L
-
-    - Lamborghini
-        - Aventador SVJ
-            - YEAR: [2018]
-            - COUNTRY: [italy]
-            - IDENTIFIER: "Pending."
-            - COMMENT:
-            - TODO: "Make livery."
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_IOnceWasYou] LIVERY: []
-            - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_point-drifting-awd] INGAME_TYPE: [hypercars]
+  - Lamborghini
+    - Aventador SVJ
+      - YEAR: [2018]
+      - COUNTRY: [italy]
+      - IDENTIFIER: "Pending."
+      - COMMENT:
+      - TODO: "Make livery."
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_IOnceWasYou] LIVERY: []
+      - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_point-drifting-awd] INGAME_TYPE: [hypercars]
 
 - Letter M
+  - McLaren
+    - W1
+      - YEAR: [2025]
+      - COUNTRY: [england]
+      - IDENTIFIER: "Two-tone blue paint."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [hypercars]
 
-    - McLaren
-        - W1
-            - YEAR: [2025]
-            - COUNTRY: [england]
-            - IDENTIFIER: "Two-tone blue paint."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [hypercars]
-
-    - Mitsubishi
-        - Lancer Evolution VIII MR
-            - YEAR: [2004]
-            - COUNTRY: [japan]
-            - IDENTIFIER: "Need For Speed #9 Earl Livery."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_community-made]
-            - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [rally_mixed-surface | snow_competent | cross-country_competent] INGAME_TYPE: [modern-rally] SPECIAL: [collection-livery_most-wanted_9-earl]
+  - Mitsubishi
+    - Lancer Evolution VIII MR
+      - YEAR: [2004]
+      - COUNTRY: [japan]
+      - IDENTIFIER: "Need For Speed #9 Earl Livery."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_community-made]
+      - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [rally_mixed-surface | snow_competent | cross-country_competent] INGAME_TYPE: [modern-rally] SPECIAL: [collection-livery_most-wanted_9-earl]
 
 - Letter N
 
@@ -255,38 +255,39 @@ CAR LIST
 
 - Letter Z
 
--------------------------------------------------------------------------------
+---
 
 Below are all the possible tags that each car can have, with some explanation:
 
 - [Template]
-    - Manufacturer 
-        - Model
-            - YEAR: [-any-]
-            - COUNTRY: [-any-]
-            - IDENTIFIER: "This refers to the in-game livery I use on the car, so it's easy to pick out which one we're talking about in case I have multiple of the same model."
-            - COMMENT: ""
-            - TODO: ""
-            - RATING: 
-                - Refers to the rating the car has based on achievement.
-                - [rate_meta]: Achieved top 0.5% score on Rivals leaderboard.
-                - [rate_epic]: Achieved top 2% score on Rivals leaderboard.
-                - [rate_competitive]: Achieved top 5% score on Rivals leaderboard.
-                - [rate_for-fun]: Either couldn't achieve an optimal score, or was never intended to be used competitively.
-                - [rate_pending]: Testing needed.
-            - CREATORS | TUNER: [ tuner_yura | tuner_name | tuner_community-made ] LIVERY: [ designer_yura | designer_name | designer_community-made ]
-            - TAGS | CLASS: [ X | R-998 | S2-900 | S1-800 | A-700 | B-600 | C-500 | D-400 | drag_non-competitive ] DRIVE: [ AWD | RWD | FWD ] BUILD_TYPE: [ free | purist_strict | purist_general | purist_lite ] TRACTION_CONTROL: [ mandatory | preferred | off ] TRACK: [ general | -track_name_if_purpose_built- ] PRINCIPLE: [ List below ] INGAME_TYPE: [ List below ] SPECIAL: [ Information below, situational tag ]
+  - Manufacturer
+    - Model
+      - YEAR: [-any-]
+      - COUNTRY: [-any-]
+      - IDENTIFIER: "This refers to the in-game livery I use on the car, so it's easy to pick out which one we're talking about in case I have multiple of the same model."
+      - COMMENT: ""
+      - TODO: ""
+      - RATING:
+        - Refers to the rating the car has based on achievement.
+        - [rate_meta]: Achieved top 0.5% score on Rivals leaderboard.
+        - [rate_epic]: Achieved top 2% score on Rivals leaderboard.
+        - [rate_competitive]: Achieved top 5% score on Rivals leaderboard.
+        - [rate_for-fun]: Either couldn't achieve an optimal score, or was never intended to be used competitively.
+        - [rate_pending]: Testing needed.
+      - CREATORS | TUNER: [ tuner_yura | tuner_name | tuner_community-made ] LIVERY: [ designer_yura | designer_name | designer_community-made ]
+      - TAGS | CLASS: [ X | R-998 | S2-900 | S1-800 | A-700 | B-600 | C-500 | D-400 | drag_non-competitive ] DRIVE: [ AWD | RWD | FWD ] BUILD_TYPE: [ free | purist_strict | purist_general | purist_lite ] TRACTION_CONTROL: [ mandatory | preferred | off ] TRACK: [ general | -track_name_if_purpose_built- ] PRINCIPLE: [ List below ] INGAME_TYPE: [ List below ] SPECIAL: [ Information below, situational tag ]
 
 REFERENCE ON BUILD_TYPE TAGS:
+
 - Free Build: Completely unrestricted
 - Purist General:
-    - No engine swap.
-    - Appearance:
-      - No Bodykits or Aero (outside of stock) -- essentially minimizing changes in how the car looks.
-      - Stock Rims.
-      - Use factory colors (mixing them up yourself is fine -- you don't have to use forza's factory color presets if you can do better), or historically significant colors / liveries.
-    - No drivetrain swap.
-    - Preserve the car's role (ex. don't turn a Le Mans car into an offroad).
+  - No engine swap.
+  - Appearance:
+    - No Bodykits or Aero (outside of stock) -- essentially minimizing changes in how the car looks.
+    - Stock Rims.
+    - Use factory colors (mixing them up yourself is fine -- you don't have to use forza's factory color presets if you can do better), or historically significant colors / liveries.
+  - No drivetrain swap.
+  - Preserve the car's role (ex. don't turn a Le Mans car into an offroad).
   - Purist Strict:
     - Everything in General Purist applies.
     - Only tune to the top of the original PI class.
@@ -304,6 +305,7 @@ REFERENCE ON BUILD_TYPE TAGS:
     - Preserve the car's role.
 
 PRINCIPLE TAGS:
+
 - drift_appropriate-rwd
 - drift_point-drifting-awd
 - drift_rough-terrain
@@ -329,6 +331,7 @@ PRINCIPLE TAGS:
 - meme-car (Doesn't have to have any 'purpose' -- it's usually kept because it has a funny livery or functionality.)
 
 INGAME_TYPE TAGS:
+
 - buggies
 - classic-muscle
 - classic-racers
@@ -369,24 +372,24 @@ INGAME_TYPE TAGS:
 
 SPECIAL TAGS: These are non-standard tags that I will add manually, in case a car is part of a 'collection' of some sort. You do not need to concern yourself with it, and if I don't explicitely tell you to add a SPECIAL tag, you can even omit the entry from the actual listing.
 
--------------------------------------------------------------------------------
+---
 
 - TAGGING: If you are asked to help with tagging, you are expected to do the following:
-    -  Print the following, to gather all necessary information:
-        - Give me the following information:
-        - Manufacturer, model, production year.
-        - Visual identifier in garage.
-        - Comment / TODO (optional, skipped if unspecified)
-        - Rivals testing state / score? Possible rating tags: [RATING_array]
-        - Tuner / Designer?
-        - PI class?
-        - AWD / RWD / FWD?
-        - Purist or Free Build? (I will print parameters for each purist classification if required!)
-        - Traction Control?
-        - General purpose, or purpose-built to a track?
-        - Principle?
-        - Ingame Type?
-    - If user skipped something critical, print:
-        - Noted, I just need the following information to proceed: [ Information that was formerly skipped ]
-    - The COUNTRY tag was intentionally skipped from the questioning phase, because you can deduct that from the manufacturer.
-    - After all information has been obtained, apply them to the [Template], and send it back to user, so he can paste it into this document with ease.
+  - Print the following, to gather all necessary information:
+    - Give me the following information:
+    - Manufacturer, model, production year.
+    - Visual identifier in garage.
+    - Comment / TODO (optional, skipped if unspecified)
+    - Rivals testing state / score? Possible rating tags: [RATING_array]
+    - Tuner / Designer?
+    - PI class?
+    - AWD / RWD / FWD?
+    - Purist or Free Build? (I will print parameters for each purist classification if required!)
+    - Traction Control?
+    - General purpose, or purpose-built to a track?
+    - Principle?
+    - Ingame Type?
+  - If user skipped something critical, print:
+    - Noted, I just need the following information to proceed: [ Information that was formerly skipped ]
+  - The COUNTRY tag was intentionally skipped from the questioning phase, because you can deduct that from the manufacturer.
+  - After all information has been obtained, apply them to the [Template], and send it back to user, so he can paste it into this document with ease.
