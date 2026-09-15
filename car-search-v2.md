@@ -38,6 +38,10 @@ Letter A
 | RS 4                              | `2006` | `germany` | "Needs some fine-tuning — not urgent."                                                         |      | "Black and white AUDI livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700`  | `AWD`        | `free`     | `off`            | `general` | `snow_purpose-built`                                             | `modern-super-saloons` |         |
 | RS 4 Avant                        | `2001` | `germany` |                                                                                                |      | "Simple green paint."          | `rate_pending` | `tuner_yura` | `designer_yura`           | `A-700`  | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `cross-country_competent` `snow_competent` | `modern-super-saloons` |         |
 
+| Manufacturer | Model | Year | Identifier        | Comment | TODO | Rating         | Tuner        | Designer        | Class   | Drive | Build Type | Traction Control | Track     | Principle     | Ingame Type          |
+| ------------ | ----- | ---: | ----------------- | ------- | ---- | -------------- | ------------ | --------------- | ------- | ----- | ---------- | ---------------- | --------- | ------------- | -------------------- |
+| Autozam      | AZ-1  | 1993 | Sexy Cream color. |         |      | `rate_pending` | `tuner_yura` | `designer_yura` | `A-700` | `AWD` | `free`     | `off`            | `general` | `touge_drift` | `eclectic-domestics` |
+
 ---
 
 Letter B
