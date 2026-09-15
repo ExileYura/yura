@@ -70,101 +70,91 @@ CAR LIST
 | Letter Z | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
 | -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
 
-    - Abarth
-        - 595 ESSEESSE
-            - YEAR: [1968]
-            - COUNTRY: [italy]
-            - IDENTIFIER: "Orange 'Fidesz' livery."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_for-fun]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [B-600] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [meme-car] INGAME_TYPE: [cult-cars]
+- Letter A
+  - Alfa Romeo
+    - Giulia GTAM
+      - YEAR: [2021]
+      - COUNTRY: [italy]
+      - IDENTIFIER: "Red and white livery."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [S1-800] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [touge_drift] INGAME_TYPE: [modern-super-saloons]
+    - 4C
+      - YEAR: [2014]
+      - COUNTRY: [italy]
+      - IDENTIFIER: "White and yellow livery."
+      - COMMENT:
+      - TODO: "Needs a facelift — abysmal understeer."
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [S1-800] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_speed-highway] INGAME_TYPE: [modern-sports-cars]
+    - 4C
+      - YEAR: [2014]
+      - COUNTRY: [italy]
+      - IDENTIFIER: "White with purple flag livery."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [drag_non-competitive] DRIVE: [RWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drag_long-strip] INGAME_TYPE: [modern-sports-cars]
+    - 048SP
+      - YEAR: [1990]
+      - COUNTRY: [italy]
+      - IDENTIFIER: "White livery."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [retro-racers]
+    - 048SP
+      - YEAR: [1990]
+      - COUNTRY: [italy]
+      - IDENTIFIER: "Black livery."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [S2-900] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [retro-racers]
+    - Autodelta Tipo 33/2 DAYTONA
+      - YEAR: [1968]
+      - COUNTRY: [italy]
+      - IDENTIFIER: "Black livery, gold rim."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [S1-800] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [rally_mixed-surface] INGAME_TYPE: [classic-racers]
 
-    - Alfa Romeo
-        - Giulia GTAM
-            - YEAR: [2021]
-            - COUNTRY: [italy]
-            - IDENTIFIER: "Red and white livery."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [S1-800] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [touge_drift] INGAME_TYPE: [modern-super-saloons]
-        - 4C
-            - YEAR: [2014]
-            - COUNTRY: [italy]
-            - IDENTIFIER: "White and yellow livery."
-            - COMMENT:
-            - TODO: "Needs a facelift — abysmal understeer."
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [S1-800] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_speed-highway] INGAME_TYPE: [modern-sports-cars]
-        - 4C
-            - YEAR: [2014]
-            - COUNTRY: [italy]
-            - IDENTIFIER: "White with purple flag livery."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [drag_non-competitive] DRIVE: [RWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drag_long-strip] INGAME_TYPE: [modern-sports-cars]
-        - 048SP
-            - YEAR: [1990]
-            - COUNTRY: [italy]
-            - IDENTIFIER: "White livery."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [retro-racers]
-        - 048SP
-            - YEAR: [1990]
-            - COUNTRY: [italy]
-            - IDENTIFIER: "Black livery."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [S2-900] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [retro-racers]
-        - Autodelta Tipo 33/2 DAYTONA
-            - YEAR: [1968]
-            - COUNTRY: [italy]
-            - IDENTIFIER: "Black livery, gold rim."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [S1-800] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [rally_mixed-surface] INGAME_TYPE: [classic-racers]
-
-    - Audi
-        - R8 Coupé V10 Plus 5.2 FSI Quattro
-            - YEAR: [2013]
-            - COUNTRY: [germany]
-            - IDENTIFIER: "Pure white livery."
-            - COMMENT:
-            - TODO: "Understeers badly — can't fix via tuning alone. Try converting to RWD or dropping to PI 800."
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [S2-900] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_speed-highway] INGAME_TYPE: [modern-supercars]
-        - RS 4
-            - YEAR: [2006]
-            - COUNTRY: [germany]
-            - IDENTIFIER: "Black and white AUDI livery."
-            - COMMENT:
-            - TODO: "Needs some fine-tuning — not urgent."
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_community-made]
-            - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [snow_purpose-built] INGAME_TYPE: -[modern-super-saloons]
-        - RS 4 Avant
-            - YEAR: [2001]
-            - COUNTRY: [germany]
-            - IDENTIFIER: "Simple green paint."
-            - COMMENT:
-            - TODO:
-            - RATING: [rate_pending]
-            - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-            - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [rally_mixed-surface | cross-country_competent | snow_competent] INGAME_TYPE: [modern-super-saloons]
+  - Audi
+    - R8 Coupé V10 Plus 5.2 FSI Quattro
+      - YEAR: [2013]
+      - COUNTRY: [germany]
+      - IDENTIFIER: "Pure white livery."
+      - COMMENT:
+      - TODO: "Understeers badly — can't fix via tuning alone. Try converting to RWD or dropping to PI 800."
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [S2-900] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_speed-highway] INGAME_TYPE: [modern-supercars]
+    - RS 4
+      - YEAR: [2006]
+      - COUNTRY: [germany]
+      - IDENTIFIER: "Black and white AUDI livery."
+      - COMMENT:
+      - TODO: "Needs some fine-tuning — not urgent."
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_community-made]
+      - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [snow_purpose-built] INGAME_TYPE: -[modern-super-saloons]
+    - RS 4 Avant
+      - YEAR: [2001]
+      - COUNTRY: [germany]
+      - IDENTIFIER: "Simple green paint."
+      - COMMENT:
+      - TODO:
+      - RATING: [rate_pending]
+      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
+      - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [rally_mixed-surface | cross-country_competent | snow_competent] INGAME_TYPE: [modern-super-saloons]
 
 - Letter B
 
