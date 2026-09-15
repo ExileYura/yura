@@ -17,9 +17,23 @@ CAR LIST
 
 - Letter A
 
-| Manufacturer | Model            | Year | Country  | Identifier              | Rating         | Creator / Tuner | Livery          | Class | Drive | Build | TC  | Track   | Principle | In-game type |
-| ------------ | ---------------- | ---: | -------- | ----------------------- | -------------- | --------------- | --------------- | ----- | ----- | ----- | --- | ------- | --------- | ------------ |
-| Abarth       | **595 ESSEESSE** | 1968 | 🇮🇹 Italy | Orange “Fidesz” livery. | `rate_for-fun` | `tuner_yura`    | `designer_yura` | B-600 | AWD   | Free  | Off | General | Meme-car  | Cult-cars    |
+---
+
+| Letter A | Model            | Year | Country | Identifier              | Rating         | Creators                                      | Build                       | Tags                           |
+| -------- | ---------------- | ---: | ------- | ----------------------- | -------------- | --------------------------------------------- | --------------------------- | ------------------------------ |
+| Abarth   | **595 ESSEESSE** | 1968 | Italy   | Orange “Fidesz” livery. | `rate_for-fun` | Tuner: `tuner_yura` · Livery: `designer_yura` | B-600 · AWD · Free · TC Off | General · Meme-car · Cult-cars |
+
+---
+
+| Letter B | Model | Year | Country | Identifier | Rating | Creators | Build | Tags |
+| -------- | ----- | ---: | ------- | ---------- | ------ | -------- | ----- | ---- |
+| ...      | ...   |  ... | ...     | ...        | ...    | ...      | ...   | ...  |
+
+---
+
+| Letter C | Model | Year | Country | Identifier | Rating | Creators | Build | Tags |
+| -------- | ----- | ---: | ------- | ---------- | ------ | -------- | ----- | ---- |
+| ...      | ...   |  ... | ...     | ...        | ...    | ...      | ...   | ...  |
 
     - Abarth
         - 595 ESSEESSE
