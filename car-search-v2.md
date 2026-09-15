@@ -19,6 +19,9 @@ CAR LIST
 | -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
 | Abarth   | 595 ESSEESSE | `1968` | `italy` | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
 | Abarth   | 595 ESSEESSE | `1968` | `italy` | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
+| Abarth   | 595 ESSEESSE | `1968` | `italy` | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
+| Abarth   | 595 ESSEESSE | `1968` | `italy` | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
+| Abarth   | 595 ESSEESSE | `1968` | `italy` | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
 
 ---
 
