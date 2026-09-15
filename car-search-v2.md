@@ -18,57 +18,89 @@ CAR LIST
 | Letter A | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
 | -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
 | Abarth   | 595 ESSEESSE | `1968` | `italy` | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter B | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
 
-| Letter C | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter D | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter E | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter F | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter G | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter H | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter I | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter J | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter K | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter L | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter M | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter N | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter O | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter P | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter Q | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter R | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter S | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter T | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter U | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter V | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter W | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter X | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter Y | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Letter Z | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
-| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
+---
+
+| Letter B | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+---
+
+| Letter C | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+---
+
+| Letter D | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+---
+
+| Letter E | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter F | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter G | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter H | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter I | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter J | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter K | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter L | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter M | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter N | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter O | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter P | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter Q | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter R | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter S | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter T | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter U | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter V | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter W | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter X | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter Y | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+
+| Letter Z | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
 
 | Letter A   | Model                             | Year   | Country   | Identifier                       | Rating         | Tuner        | Designer                  | Class                  | Driveterrain | Build Type | Traction Control | Track     | Principle                                                          | In-game Type           | Special |
 | ---------- | --------------------------------- | ------ | --------- | -------------------------------- | -------------- | ------------ | ------------------------- | ---------------------- | ------------ | ---------- | ---------------- | --------- | ------------------------------------------------------------------ | ---------------------- | ------- |
