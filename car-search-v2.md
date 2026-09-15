@@ -58,9 +58,9 @@ Letter A
 ---
 
 Letter F
-| Ford | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
-| -------- | -------------------------- | ------ | ------- | ---------- | -------------- | ---------------------- | -------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
-| Ford | Mustang GT 2+2 Fastback FE | `1968` | `usa` | "Pending." | `rate_pending` | `tuner_ChromeProto517` | | `S2-900` | `AWD` | `free` | `off` | `general` | `drift_point-drifting-awd` | `drift-cars` | |
+| Ford | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ------ | ------- | ---------- | -------------- | | ---------------------- | -------- | -------- | ------------ | ---------- | ---------------- | --------- |--- |
+|Mustang GT 2+2 Fastback FE | `1968` | `usa` | "Pending." | `rate_pending` | `tuner_ChromeProto517` | | `S2-900` | `AWD` | `free` | `off` | `general` | `drift_point-drifting-awd` | `drift-cars` | |
 
 ---
 
