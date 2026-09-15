@@ -23,19 +23,20 @@ Letter A
 | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
 | 595 ESSEESSE | `1968` | `italy` | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
 
-| Alfa Romeo | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
-| ---------- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+| Alfa Romeo  | Year   | Country | Identifier                       | Rating         | Tuner        | Designer        | Class                  | Driveterrain | Build Type | Traction Control | Track     | Principle            | In-game Type           | Special |
+| ----------- | ------ | ------- | -------------------------------- | -------------- | ------------ | --------------- | ---------------------- | ------------ | ---------- | ---------------- | --------- | -------------------- | ---------------------- | ------- |
+| Giulia GTAM | `2021` | `italy` | "Red and white livery."          | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `AWD`        | `free`     | `off`            | `general` | `touge_drift`        | `modern-super-saloons` |         |
+| 4C          | `2014` | `italy` | "White and yellow livery."       | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `AWD`        | `free`     | `off`            | `general` | `road_speed-highway` | `modern-sports-cars`   |         |
+| 4C          | `2014` | `italy` | "White with purple flag livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `drag_non-competitive` | `RWD`        | `free`     | `off`            | `general` | `drag_long-strip`    | `modern-sports-cars`   |         |
 
 aaaaaaaa
-| Alfa Romeo | Giulia GTAM | `2021` | `italy` | "Red and white livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD` | `free` | `off` | `general` | `touge_drift` | `modern-super-saloons` | |
-| Alfa Romeo | 4C | `2014` | `italy` | "White and yellow livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD` | `free` | `off` | `general` | `road_speed-highway` | `modern-sports-cars` | |
-| Alfa Romeo | 4C | `2014` | `italy` | "White with purple flag livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `drag_non-competitive` | `RWD` | `free` | `off` | `general` | `drag_long-strip` | `modern-sports-cars` | |
-| Alfa Romeo | 048SP | `1990` | `italy` | "White livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998` | `AWD` | `free` | `off` | `general` | `road_technical` | `retro-racers` | |
-| Alfa Romeo | 048SP | `1990` | `italy` | "Black livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `AWD` | `free` | `off` | `general` | `road_technical` | `retro-racers` | |
-| Alfa Romeo | Autodelta Tipo 33/2 DAYTONA | `1968` | `italy` | "Black livery, gold rim." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD` | `free` | `off` | `general` | `rally_mixed-surface` | `classic-racers` | |
-| Audi | R8 Coupé V10 Plus 5.2 FSI Quattro | `2013` | `germany` | "Pure white livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `AWD` | `free` | `off` | `general` | `road_speed-highway` | `modern-supercars` | |
-| Audi | RS 4 | `2006` | `germany` | "Black and white AUDI livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD` | `free` | `off` | `general` | `snow_purpose-built` | `modern-super-saloons` | |
-| Audi | RS 4 Avant | `2001` | `germany` | "Simple green paint." | `rate_pending` | `tuner_yura` | `designer_yura` | `A-700` | `AWD` | `free` | `off` | `general` | `rally_mixed-surface \| cross-country_competent \| snow_competent` | `modern-super-saloons` | |
+
+| 048SP | `1990` | `italy` | "White livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998` | `AWD` | `free` | `off` | `general` | `road_technical` | `retro-racers` | |
+| 048SP | `1990` | `italy` | "Black livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `AWD` | `free` | `off` | `general` | `road_technical` | `retro-racers` | |
+| Autodelta Tipo 33/2 DAYTONA | `1968` | `italy` | "Black livery, gold rim." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD` | `free` | `off` | `general` | `rally_mixed-surface` | `classic-racers` | |
+| R8 Coupé V10 Plus 5.2 FSI Quattro | `2013` | `germany` | "Pure white livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `AWD` | `free` | `off` | `general` | `road_speed-highway` | `modern-supercars` | |
+| RS 4 | `2006` | `germany` | "Black and white AUDI livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD` | `free` | `off` | `general` | `snow_purpose-built` | `modern-super-saloons` | |
+| RS 4 Avant | `2001` | `germany` | "Simple green paint." | `rate_pending` | `tuner_yura` | `designer_yura` | `A-700` | `AWD` | `free` | `off` | `general` | `rally_mixed-surface \| cross-country_competent \| snow_competent` | `modern-super-saloons` | |
 
 ---
 
