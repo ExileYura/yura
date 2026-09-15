@@ -15,13 +15,9 @@ This is a compiled list of all my cars in Forza Horizon 6. I cannot add custom t
 
 CAR LIST
 
-- Letter A
-
----
-
-| Letter A | Model            | Year | Country | Identifier              | Rating         | Creators                                      | Build                       | Tags                           |
-| -------- | ---------------- | ---: | ------- | ----------------------- | -------------- | --------------------------------------------- | --------------------------- | ------------------------------ |
-| Abarth   | **595 ESSEESSE** | 1968 | Italy   | Orange “Fidesz” livery. | `rate_for-fun` | Tuner: `tuner_yura` · Livery: `designer_yura` | B-600 · AWD · Free · TC Off | General · Meme-car · Cult-cars |
+| Letter A | Model          | Year | Country | Identifier              | Rating         | Creators                                      | Build                       | Tags                           |
+| -------- | -------------- | ---: | ------- | ----------------------- | -------------- | --------------------------------------------- | --------------------------- | ------------------------------ |
+| Abarth   | '595 ESSEESSE' | 1968 | Italy   | Orange “Fidesz” livery. | `rate_for-fun` | Tuner: `tuner_yura` · Livery: `designer_yura` | B-600 · AWD · Free · TC Off | General · Meme-car · Cult-cars |
 
 ---
 
@@ -273,7 +269,7 @@ CAR LIST
 
 Below are all the possible tags that each car can have, with some explanation:
 
-- [Template]
+- [Visualization]
   - Manufacturer
     - Model
       - YEAR: [-any-]
@@ -406,4 +402,4 @@ SPECIAL TAGS: These are non-standard tags that I will add manually, in case a ca
   - If user skipped something critical, print:
     - Noted, I just need the following information to proceed: [ Information that was formerly skipped ]
   - The COUNTRY tag was intentionally skipped from the questioning phase, because you can deduct that from the manufacturer.
-  - After all information has been obtained, apply them to the [Template], and send it back to user, so he can paste it into this document with ease.
+  - After all information has been obtained, you must send it back to me organized into a table like all the rest, so I can paste it into this document with ease.
