@@ -19,11 +19,12 @@ Letter A
 
 ---
 
-| Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
+| Abarth       | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
 | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
-| Abarth       |        |         |                           |                |              |                 |         |              |            |                  |          |            |              |         |
 | 595 ESSEESSE | `1968` | `italy` | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
-| Alfa Romeo   |        |         |                           |                |              |                 |         |              |            |                  |          |            |              |         |
+
+| Alfa Romeo | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| ---------- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
 
 aaaaaaaa
 | Alfa Romeo | Giulia GTAM | `2021` | `italy` | "Red and white livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD` | `free` | `off` | `general` | `touge_drift` | `modern-super-saloons` | |
