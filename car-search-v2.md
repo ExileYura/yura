@@ -15,9 +15,9 @@ This is a compiled list of all my cars in Forza Horizon 6. I cannot add custom t
 
 CAR LIST
 
-Letter A
-
 ---
+
+Letter A
 
 | Abarth       | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
 | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
@@ -34,15 +34,6 @@ Letter A
 | R8 Coupé V10 Plus 5.2 FSI Quattro | `2013` | `germany` | "Pure white livery."             | `rate_pending` | `tuner_yura` | `designer_yura`           | `S2-900`               | `AWD`        | `free`     | `off`            | `general` | `road_speed-highway`                                             | `modern-supercars`     |         |
 | RS 4                              | `2006` | `germany` | "Black and white AUDI livery."   | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700`                | `AWD`        | `free`     | `off`            | `general` | `snow_purpose-built`                                             | `modern-super-saloons` |         |
 | RS 4 Avant                        | `2001` | `germany` | "Simple green paint."            | `rate_pending` | `tuner_yura` | `designer_yura`           | `A-700`                | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `cross-country_competent` `snow_competent` | `modern-super-saloons` |         |
-
-aaaaaaaa
-
-| 048SP | `1990` | `italy` | "White livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998` | `AWD` | `free` | `off` | `general` | `road_technical` | `retro-racers` | |
-| 048SP | `1990` | `italy` | "Black livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `AWD` | `free` | `off` | `general` | `road_technical` | `retro-racers` | |
-| Autodelta Tipo 33/2 DAYTONA | `1968` | `italy` | "Black livery, gold rim." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD` | `free` | `off` | `general` | `rally_mixed-surface` | `classic-racers` | |
-| R8 Coupé V10 Plus 5.2 FSI Quattro | `2013` | `germany` | "Pure white livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `AWD` | `free` | `off` | `general` | `road_speed-highway` | `modern-supercars` | |
-| RS 4 | `2006` | `germany` | "Black and white AUDI livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD` | `free` | `off` | `general` | `snow_purpose-built` | `modern-super-saloons` | |
-| RS 4 Avant | `2001` | `germany` | "Simple green paint." | `rate_pending` | `tuner_yura` | `designer_yura` | `A-700` | `AWD` | `free` | `off` | `general` | `rally_mixed-surface` `cross-country_competent` `snow_competent` | `modern-super-saloons` | |
 
 ---
 
@@ -66,8 +57,10 @@ aaaaaaaa
 
 ---
 
-| Letter F | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
-| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
+Letter F
+| Ford | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | -------------------------- | ------ | ------- | ---------- | -------------- | ---------------------- | -------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
+| Ford | Mustang GT 2+2 Fastback FE | `1968` | `usa` | "Pending." | `rate_pending` | `tuner_ChromeProto517` | | `S2-900` | `AWD` | `free` | `off` | `general` | `drift_point-drifting-awd` | `drift-cars` | |
 
 ---
 
@@ -174,9 +167,8 @@ aaaaaaaa
 | Letter A | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
 | -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
 
-| Letter F | Model                      | Year   | Country | Identifier | Rating         | Tuner                  | Designer | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
-| -------- | -------------------------- | ------ | ------- | ---------- | -------------- | ---------------------- | -------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
-| Ford     | Mustang GT 2+2 Fastback FE | `1968` | `usa`   | "Pending." | `rate_pending` | `tuner_ChromeProto517` |          | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
+| Letter F | Model | Year | Country | Identifier | Rating | Tuner | Designer | Class | Driveterrain | Build Type | Traction Control | Track | Principle | In-game Type | Special |
+| -------- | ----- | ---- | ------- | ---------- | ------ | ----- | -------- | ----- | ------------ | ---------- | ---------------- | ----- | --------- | ------------ | ------- |
 
 | Letter G | Model      | Year   | Country   | Identifier                 | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Special |
 | -------- | ---------- | ------ | --------- | -------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ------- |
