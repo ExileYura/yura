@@ -79,12 +79,12 @@ Letter I
 
 Letter J
 
-| Letter J | Model   | Year   | Country   | Identifier                         | Rating         | Tuner        | Designer        | Class                  | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
-| -------- | ------- | ------ | --------- | ---------------------------------- | -------------- | ------------ | --------------- | ---------------------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
-| Jaguar   | XJ-S FE | `1990` | `england` | "White with black accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
-| Jaguar   | XJ-S FE | `1990` | `england` | "Black with red accents livery."   | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
-| Jaguar   | XJ-S FE | `1990` | `england` | "Black with white accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`                | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
-| Jaguar   | XJ-S FE | `1990` | `england` | "Red livery with dark red flag."   | `rate_pending` | `tuner_yura` | `designer_yura` | `drag_non-competitive` | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip`          | `drift-cars` |         |
+| Jaguar  | Year   | Country   | Identifier                         | Rating         | Tuner        | Designer        | Class                  | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
+| ------- | ------ | --------- | ---------------------------------- | -------------- | ------------ | --------------- | ---------------------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
+| XJ-S FE | `1990` | `england` | "White with black accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
+| XJ-S FE | `1990` | `england` | "Black with red accents livery."   | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
+| XJ-S FE | `1990` | `england` | "Black with white accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`                | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
+| XJ-S FE | `1990` | `england` | "Red livery with dark red flag."   | `rate_pending` | `tuner_yura` | `designer_yura` | `drag_non-competitive` | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip`          | `drift-cars` |         |
 
 ---
 
