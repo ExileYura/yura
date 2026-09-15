@@ -234,6 +234,8 @@ PRINCIPLE TAGS:
 - touge_drift
 - touge_grip
 
+- hillclimb
+
 - rally_dirt
 - rally_mixed-surface
 - rally_competent (Usually road cars or cross country cars that are competent in rally even though it is not their primary role.)
