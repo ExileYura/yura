@@ -55,17 +55,17 @@ Letter E
 
 Letter F
 
-| Ford                       | Year   | Country | Identifier | Rating         | Tuner                  | Designer | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
-| -------------------------- | ------ | ------- | ---------- | -------------- | ---------------------- | -------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
-| Mustang GT 2+2 Fastback FE | `1968` | `usa`   | "Pending." | `rate_pending` | `tuner_ChromeProto517` |          | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
+| Ford                       | Year   | Country | Comment | Todo | Identifier | Rating         | Tuner                  | Designer | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
+| -------------------------- | ------ | ------- | ------- | ---- | ---------- | -------------- | ---------------------- | -------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
+| Mustang GT 2+2 Fastback FE | `1968` | `usa`   |         |      | "Pending." | `rate_pending` | `tuner_ChromeProto517` |          | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
 
 ---
 
 Letter G
 
-| Ginetta    | Year   | Country   | Identifier                 | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Special |
-| ---------- | ------ | --------- | -------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ------- |
-| G40 Junior | `2019` | `england` | "Green and Yellow livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `road_technical` | `track-toys` |         |
+| Ginetta    | Year   | Country   | Comment | Todo | Identifier                 | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Special |
+| ---------- | ------ | --------- | ------- | ---- | -------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ------- |
+| G40 Junior | `2019` | `england` |         |      | "Green and Yellow livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `road_technical` | `track-toys` |         |
 
 ---
 
@@ -79,12 +79,12 @@ Letter I
 
 Letter J
 
-| Jaguar  | Year   | Country   | Identifier                         | Rating         | Tuner        | Designer        | Class                  | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
-| ------- | ------ | --------- | ---------------------------------- | -------------- | ------------ | --------------- | ---------------------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
-| XJ-S FE | `1990` | `england` | "White with black accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
-| XJ-S FE | `1990` | `england` | "Black with red accents livery."   | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
-| XJ-S FE | `1990` | `england` | "Black with white accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`                | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
-| XJ-S FE | `1990` | `england` | "Red livery with dark red flag."   | `rate_pending` | `tuner_yura` | `designer_yura` | `drag_non-competitive` | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip`          | `drift-cars` |         |
+| Jaguar  | Year   | Country   | Comment | Todo | Identifier                         | Rating         | Tuner        | Designer        | Class                  | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
+| ------- | ------ | --------- | ------- | ---- | ---------------------------------- | -------------- | ------------ | --------------- | ---------------------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
+| XJ-S FE | `1990` | `england` |         |      | "White with black accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
+| XJ-S FE | `1990` | `england` |         |      | "Black with red accents livery."   | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
+| XJ-S FE | `1990` | `england` |         |      | "Black with white accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`                | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
+| XJ-S FE | `1990` | `england` |         |      | "Red livery with dark red flag."   | `rate_pending` | `tuner_yura` | `designer_yura` | `drag_non-competitive` | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip`          | `drift-cars` |         |
 
 ---
 
@@ -94,21 +94,21 @@ Letter K
 
 Letter L
 
-| Lamborghini   | Year   | Country | Identifier | Rating         | Tuner               | Designer | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
-| ------------- | ------ | ------- | ---------- | -------------- | ------------------- | -------- | ------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
-| Aventador SVJ | `2018` | `italy` | "Pending." | `rate_pending` | `tuner_IOnceWasYou` |          | `R-998` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `hypercars`  |         |
+| Lamborghini   | Year   | Country | Comment | Todo | Identifier | Rating         | Tuner               | Designer | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
+| ------------- | ------ | ------- | ------- | ---- | ---------- | -------------- | ------------------- | -------- | ------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
+| Aventador SVJ | `2018` | `italy` |         |      | "Pending." | `rate_pending` | `tuner_IOnceWasYou` |          | `R-998` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `hypercars`  |         |
 
 ---
 
 Letter M
 
-| McLaren | Year   | Country   | Identifier             | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Special |
-| ------- | ------ | --------- | ---------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ------- |
-| W1      | `2025` | `england` | "Two-tone blue paint." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998` | `AWD`        | `free`     | `off`            | `general` | `road_technical` | `hypercars`  |         |
+| McLaren | Year   | Country   | Comment | Todo | Identifier             | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Special |
+| ------- | ------ | --------- | ------- | ---- | ---------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ------- |
+| W1      | `2025` | `england` |         |      | "Two-tone blue paint." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998` | `AWD`        | `free`     | `off`            | `general` | `road_technical` | `hypercars`  |         |
 
-| Mitsubishi               | Year   | Country | Identifier                       | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type   | Special                                |
-| ------------------------ | ------ | ------- | -------------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | -------------- | -------------------------------------- |
-| Lancer Evolution VIII MR | `2004` | `japan` | "Need For Speed #9 Earl Livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `snow_competent` `cross-country_competent` | `modern-rally` | `collection-livery_most-wanted_9-earl` |
+| Mitsubishi               | Year   | Country | Comment | Todo | Identifier                       | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type   | Special                                |
+| ------------------------ | ------ | ------- | ------- | ---- | -------------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | -------------- | -------------------------------------- |
+| Lancer Evolution VIII MR | `2004` | `japan` |         |      | "Need For Speed #9 Earl Livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `snow_competent` `cross-country_competent` | `modern-rally` | `collection-livery_most-wanted_9-earl` |
 
 ---
 
