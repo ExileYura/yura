@@ -15,6 +15,8 @@ This is a compiled list of all my cars in Forza Horizon 6. I cannot add custom t
 
 CAR LIST
 
+| YES      | Model        | Year   | Country | Identifier                | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track    | Principle  | In-game Type | Special |
+| -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
 | Letter A |
 | -------- | ------------ | ------ | ------- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
 | Abarth   | 595 ESSEESSE | `1968` | `italy` | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
