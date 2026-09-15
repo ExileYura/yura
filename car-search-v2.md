@@ -32,11 +32,11 @@ Letter A
 | 048SP                       | `1990` | `italy` |                                          |      | "Black livery."                  | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900`               | `AWD`        | `free`     | `off`            | `general` | `road_technical`      | `retro-racers`         |         |
 | Autodelta Tipo 33/2 DAYTONA | `1968` | `italy` |                                          |      | "Black livery, gold rim."        | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` | `classic-racers`       |         |
 
-| Audi                              | Year   | Country   | Comment | Todo | Identifier                     | Rating         | Tuner        | Designer                  | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type           | Special |
-| --------------------------------- | ------ | --------- | ------- | ---- | ------------------------------ | -------------- | ------------ | ------------------------- | -------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | ---------------------- | ------- |
-| R8 Coupé V10 Plus 5.2 FSI Quattro | `2013` | `germany` |         |      | "Pure white livery."           | `rate_pending` | `tuner_yura` | `designer_yura`           | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `road_speed-highway`                                             | `modern-supercars`     |         |
-| RS 4                              | `2006` | `germany` |         |      | "Black and white AUDI livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700`  | `AWD`        | `free`     | `off`            | `general` | `snow_purpose-built`                                             | `modern-super-saloons` |         |
-| RS 4 Avant                        | `2001` | `germany` |         |      | "Simple green paint."          | `rate_pending` | `tuner_yura` | `designer_yura`           | `A-700`  | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `cross-country_competent` `snow_competent` | `modern-super-saloons` |         |
+| Audi                              | Year   | Country   | Comment                                                                                        | Todo | Identifier                     | Rating         | Tuner        | Designer                  | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type           | Special |
+| --------------------------------- | ------ | --------- | ---------------------------------------------------------------------------------------------- | ---- | ------------------------------ | -------------- | ------------ | ------------------------- | -------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | ---------------------- | ------- |
+| R8 Coupé V10 Plus 5.2 FSI Quattro | `2013` | `germany` | "Understeers badly — can't fix via tuning alone. Try converting to RWD or dropping to PI 800." |      | "Pure white livery."           | `rate_pending` | `tuner_yura` | `designer_yura`           | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `road_speed-highway`                                             | `modern-supercars`     |         |
+| RS 4                              | `2006` | `germany` | "Needs some fine-tuning — not urgent."                                                         |      | "Black and white AUDI livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700`  | `AWD`        | `free`     | `off`            | `general` | `snow_purpose-built`                                             | `modern-super-saloons` |         |
+| RS 4 Avant                        | `2001` | `germany` |                                                                                                |      | "Simple green paint."          | `rate_pending` | `tuner_yura` | `designer_yura`           | `A-700`  | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `cross-country_competent` `snow_competent` | `modern-super-saloons` |         |
 
 ---
 
@@ -58,17 +58,17 @@ Letter E
 
 Letter F
 
-| Ford                       | Year   | Country | Comment | Todo | Identifier | Rating         | Tuner                  | Designer | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
-| -------------------------- | ------ | ------- | ------- | ---- | ---------- | -------------- | ---------------------- | -------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
-| Mustang GT 2+2 Fastback FE | `1968` | `usa`   |         |      | "Pending." | `rate_pending` | `tuner_ChromeProto517` |          | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
+| Ford                       | Year   | Country | Comment        | Todo | Identifier | Rating         | Tuner                  | Designer | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
+| -------------------------- | ------ | ------- | -------------- | ---- | ---------- | -------------- | ---------------------- | -------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
+| Mustang GT 2+2 Fastback FE | `1968` | `usa`   | "Make livery." |      | "Pending." | `rate_pending` | `tuner_ChromeProto517` |          | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
 
 ---
 
 Letter G
 
-| Ginetta    | Year   | Country   | Comment | Todo | Identifier                 | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Special |
-| ---------- | ------ | --------- | ------- | ---- | -------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ------- |
-| G40 Junior | `2019` | `england` |         |      | "Green and Yellow livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `road_technical` | `track-toys` |         |
+| Ginetta    | Year   | Country   | Comment                                                                                                                                                             | Todo | Identifier                 | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Special |
+| ---------- | ------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ------- |
+| G40 Junior | `2019` | `england` | "Cornering cannot be further optimized within present constraints. Aggressive steering response and limited turning angle makes the car feel uniquely challenging." |      | "Green and Yellow livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `road_technical` | `track-toys` |         |
 
 ---
 
@@ -97,9 +97,9 @@ Letter K
 
 Letter L
 
-| Lamborghini   | Year   | Country | Comment | Todo | Identifier | Rating         | Tuner               | Designer | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
-| ------------- | ------ | ------- | ------- | ---- | ---------- | -------------- | ------------------- | -------- | ------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
-| Aventador SVJ | `2018` | `italy` |         |      | "Pending." | `rate_pending` | `tuner_IOnceWasYou` |          | `R-998` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `hypercars`  |         |
+| Lamborghini   | Year   | Country | Comment | Todo | Identifier           | Rating         | Tuner               | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
+| ------------- | ------ | ------- | ------- | ---- | -------------------- | -------------- | ------------------- | --------------- | ------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
+| Aventador SVJ | `2018` | `italy` |         |      | "Golden Boy livery." | `rate_pending` | `tuner_IOnceWasYou` | `designer_yura` | `R-998` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `hypercars`  |         |
 
 ---
 
@@ -164,232 +164,6 @@ Letter Y
 ---
 
 Letter Z
-
----
-
-- Letter A
-  - Alfa Romeo
-    - Giulia GTAM
-      - YEAR: [2021]
-      - COUNTRY: [italy]
-      - IDENTIFIER: "Red and white livery."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [S1-800] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [touge_drift] INGAME_TYPE: [modern-super-saloons]
-    - 4C
-      - YEAR: [2014]
-      - COUNTRY: [italy]
-      - IDENTIFIER: "White and yellow livery."
-      - COMMENT:
-      - TODO: "Needs a facelift — abysmal understeer."
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [S1-800] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_speed-highway] INGAME_TYPE: [modern-sports-cars]
-    - 4C
-      - YEAR: [2014]
-      - COUNTRY: [italy]
-      - IDENTIFIER: "White with purple flag livery."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [drag_non-competitive] DRIVE: [RWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drag_long-strip] INGAME_TYPE: [modern-sports-cars]
-    - 048SP
-      - YEAR: [1990]
-      - COUNTRY: [italy]
-      - IDENTIFIER: "White livery."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [retro-racers]
-    - 048SP
-      - YEAR: [1990]
-      - COUNTRY: [italy]
-      - IDENTIFIER: "Black livery."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [S2-900] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [retro-racers]
-    - Autodelta Tipo 33/2 DAYTONA
-      - YEAR: [1968]
-      - COUNTRY: [italy]
-      - IDENTIFIER: "Black livery, gold rim."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [S1-800] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [rally_mixed-surface] INGAME_TYPE: [classic-racers]
-
-  - Audi
-    - R8 Coupé V10 Plus 5.2 FSI Quattro
-      - YEAR: [2013]
-      - COUNTRY: [germany]
-      - IDENTIFIER: "Pure white livery."
-      - COMMENT:
-      - TODO: "Understeers badly — can't fix via tuning alone. Try converting to RWD or dropping to PI 800."
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [S2-900] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_speed-highway] INGAME_TYPE: [modern-supercars]
-    - RS 4
-      - YEAR: [2006]
-      - COUNTRY: [germany]
-      - IDENTIFIER: "Black and white AUDI livery."
-      - COMMENT:
-      - TODO: "Needs some fine-tuning — not urgent."
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_community-made]
-      - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [snow_purpose-built] INGAME_TYPE: -[modern-super-saloons]
-    - RS 4 Avant
-      - YEAR: [2001]
-      - COUNTRY: [germany]
-      - IDENTIFIER: "Simple green paint."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [rally_mixed-surface | cross-country_competent | snow_competent] INGAME_TYPE: [modern-super-saloons]
-
-- Letter B
-
-- Letter C
-
-- Letter D
-
-- Letter E
-
-- Letter F
-  - Ford
-    - Mustang GT 2+2 Fastback FE
-      - YEAR: [1968]
-      - COUNTRY: [usa]
-      - IDENTIFIER: "Pending."
-      - COMMENT:
-      - TODO: "Make livery."
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_ChromeProto517] LIVERY: []
-      - TAGS | CLASS: [S2-900] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_point-drifting-awd] INGAME_TYPE: [drift-cars]
-
-- Letter G
-  - Ginetta
-    - G40 Junior
-      - YEAR: [2019]
-      - COUNTRY: [england]
-      - IDENTIFIER: "Green and Yellow livery."
-      - COMMENT: "Cornering cannot be further optimized within present constraints. Aggressive steering response and limited turning angle makes the car feel uniquely challenging."
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_community-made]
-      - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [track-toys]
-
-- Letter H
-
-- Letter I
-
-- Letter J
-  - Jaguar
-    - XJ-S FE
-      - YEAR: [1990]
-      - COUNTRY: [england]
-      - IDENTIFIER: "White with black accents livery."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [S1-800] DRIVE: [RWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_appropriate-rwd] INGAME_TYPE: [drift-cars]
-    - XJ-S FE
-      - YEAR: [1990]
-      - COUNTRY: [england]
-      - IDENTIFIER: "Black with red accents livery."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [S2-900] DRIVE: [RWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_appropriate-rwd] INGAME_TYPE: [drift-cars]
-    - XJ-S FE
-      - YEAR: [1990]
-      - COUNTRY: [england]
-      - IDENTIFIER: "Black with white accents livery."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_point-drifting-awd] INGAME_TYPE: [drift-cars]
-    - XJ-S FE
-      - YEAR: [1990]
-      - COUNTRY: [england]
-      - IDENTIFIER: "Red livery with dark red flag."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [drag_non-competitive] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drag_long-strip] INGAME_TYPE: [drift-cars]
-
-- Letter K
-
-- Letter L
-  - Lamborghini
-    - Aventador SVJ
-      - YEAR: [2018]
-      - COUNTRY: [italy]
-      - IDENTIFIER: "Pending."
-      - COMMENT:
-      - TODO: "Make livery."
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_IOnceWasYou] LIVERY: []
-      - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [drift_point-drifting-awd] INGAME_TYPE: [hypercars]
-
-- Letter M
-  - McLaren
-    - W1
-      - YEAR: [2025]
-      - COUNTRY: [england]
-      - IDENTIFIER: "Two-tone blue paint."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_yura]
-      - TAGS | CLASS: [R-998] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [road_technical] INGAME_TYPE: [hypercars]
-
-  - Mitsubishi
-    - Lancer Evolution VIII MR
-      - YEAR: [2004]
-      - COUNTRY: [japan]
-      - IDENTIFIER: "Need For Speed #9 Earl Livery."
-      - COMMENT:
-      - TODO:
-      - RATING: [rate_pending]
-      - CREATORS | TUNER: [tuner_yura] LIVERY: [designer_community-made]
-      - TAGS | CLASS: [A-700] DRIVE: [AWD] BUILD_TYPE: [free] TRACTION_CONTROL: [off] TRACK: [general] PRINCIPLE: [rally_mixed-surface | snow_competent | cross-country_competent] INGAME_TYPE: [modern-rally] SPECIAL: [collection-livery_most-wanted_9-earl]
-
-- Letter N
-
-- Letter O
-
-- Letter P
-
-- Letter Q
-
-- Letter R
-
-- Letter S
-
-- Letter T
-
-- Letter U
-
-- Letter V
-
-- Letter W
-
-- Letter X
-
-- Letter Y
-
-- Letter Z
 
 ---
 
