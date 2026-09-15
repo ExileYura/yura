@@ -102,10 +102,10 @@ Letter L
 
 Letter M
 
-| Letter M   | Model                    | Year   | Country   | Identifier                       | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type   | Special                                |
-| ---------- | ------------------------ | ------ | --------- | -------------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | -------------- | -------------------------------------- |
-| McLaren    | W1                       | `2025` | `england` | "Two-tone blue paint."           | `rate_pending` | `tuner_yura` | `designer_yura`           | `R-998` | `AWD`        | `free`     | `off`            | `general` | `road_technical`                                                 | `hypercars`    |                                        |
-| Mitsubishi | Lancer Evolution VIII MR | `2004` | `japan`   | "Need For Speed #9 Earl Livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `snow_competent` `cross-country_competent` | `modern-rally` | `collection-livery_most-wanted_9-earl` |
+| McLaren                  | Year   | Country   | Identifier                       | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type   | Special                                |
+| ------------------------ | ------ | --------- | -------------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | -------------- | -------------------------------------- |
+| W1                       | `2025` | `england` | "Two-tone blue paint."           | `rate_pending` | `tuner_yura` | `designer_yura`           | `R-998` | `AWD`        | `free`     | `off`            | `general` | `road_technical`                                                 | `hypercars`    |                                        |
+| Lancer Evolution VIII MR | `2004` | `japan`   | "Need For Speed #9 Earl Livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `snow_competent` `cross-country_competent` | `modern-rally` | `collection-livery_most-wanted_9-earl` |
 
 ---
 
