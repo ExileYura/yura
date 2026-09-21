@@ -152,6 +152,10 @@ Letter O
 
 Letter P
 
+| Porsche     | Year   | Country   | Comment | Todo | Identifier                   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle         | In-game Type        | Times                       | Special |
+| ----------- | ------ | --------- | ------- | ---- | ---------------------------- | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | ----------------- | ------------------- | --------------------------- | ------- |
+| 911 Turbo S | `2023` | `germany` |         |      | "Drag Flag, Red and Yellow." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag-long-strip` | `modern-super-cars` | DS: 13.374 - 11.594 - 7.325 |
+
 ---
 
 Letter Q
@@ -163,6 +167,10 @@ Letter R
 ---
 
 Letter S
+
+| Shelby                     | Year   | Country | Comment | Todo | Identifier        | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle         | In-game Type     | Times                       | Special |
+| -------------------------- | ------ | ------- | ------- | ---- | ----------------- | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | ----------------- | ---------------- | --------------------------- | ------- |
+| Shelby Cobra Daytona Coupe | `1965` | `usa`   |         |      | "Drag Flag, Red." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag-long-strip` | `classic-racers` | DS: 14.839 - 12.920 - 8.206 |
 
 ---
 
