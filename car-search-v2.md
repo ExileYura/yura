@@ -23,14 +23,14 @@ Letter A
 | ------------ | ------ | ------- | ------- | ---- | ------------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | -------- | ---------- | ------------ | ------- |
 | 595 ESSEESSE | `1968` | `italy` |         |      | "Orange 'Fidesz' livery." | `rate_for-fun` | `tuner_yura` | `designer_yura` | `B-600` | `AWD`        | `free`     | `off`            | `general | `meme-car` | `cult-cars`  |         |
 
-| Alfa Romeo                  | Year   | Country | Comment                                  | Todo | Identifier                       | Rating         | Tuner        | Designer        | Class                  | Driveterrain | Build Type | Traction Control | Track     | Principle             | In-game Type           | Special |
-| --------------------------- | ------ | ------- | ---------------------------------------- | ---- | -------------------------------- | -------------- | ------------ | --------------- | ---------------------- | ------------ | ---------- | ---------------- | --------- | --------------------- | ---------------------- | ------- |
-| Giulia GTAM                 | `2021` | `italy` |                                          |      | "Red and white livery."          | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `AWD`        | `free`     | `off`            | `general` | `touge_drift`         | `modern-super-saloons` |         |
-| 4C                          | `2014` | `italy` | "Needs a facelift — abysmal understeer." |      | "White and yellow livery."       | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `AWD`        | `free`     | `off`            | `general` | `road_speed-highway`  | `modern-sports-cars`   |         |
-| 4C                          | `2014` | `italy` |                                          |      | "White with purple flag livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `drag_non-competitive` | `RWD`        | `free`     | `off`            | `general` | `drag_long-strip`     | `modern-sports-cars`   |         |
-| 048SP                       | `1990` | `italy` |                                          |      | "White livery."                  | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`                | `AWD`        | `free`     | `off`            | `general` | `road_technical`      | `retro-racers`         |         |
-| 048SP                       | `1990` | `italy` |                                          |      | "Black livery."                  | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900`               | `AWD`        | `free`     | `off`            | `general` | `road_technical`      | `retro-racers`         |         |
-| Autodelta Tipo 33/2 DAYTONA | `1968` | `italy` |                                          |      | "Black livery, gold rim."        | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` | `classic-racers`       |         |
+| Alfa Romeo                  | Year   | Country | Comment                                  | Todo | Identifier                       | Rating         | Tuner        | Designer        | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle             | In-game Type           | Special |
+| --------------------------- | ------ | ------- | ---------------------------------------- | ---- | -------------------------------- | -------------- | ------------ | --------------- | -------- | ------------ | ---------- | ---------------- | --------- | --------------------- | ---------------------- | ------- |
+| Giulia GTAM                 | `2021` | `italy` |                                          |      | "Red and white livery."          | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD`        | `free`     | `off`            | `general` | `touge_drift`         | `modern-super-saloons` |         |
+| 4C                          | `2014` | `italy` | "Needs a facelift — abysmal understeer." |      | "White and yellow livery."       | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD`        | `free`     | `off`            | `general` | `road_speed-highway`  | `modern-sports-cars`   |         |
+| 4C                          | `2014` | `italy` |                                          |      | "White with purple flag livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`     | `RWD`        | `free`     | `off`            | `general` | `drag_long-strip`     | `modern-sports-cars`   |         |
+| 048SP                       | `1990` | `italy` |                                          |      | "White livery."                  | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`  | `AWD`        | `free`     | `off`            | `general` | `road_technical`      | `retro-racers`         |         |
+| 048SP                       | `1990` | `italy` |                                          |      | "Black livery."                  | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `road_technical`      | `retro-racers`         |         |
+| Autodelta Tipo 33/2 DAYTONA | `1968` | `italy` |                                          |      | "Black livery, gold rim."        | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` | `classic-racers`       |         |
 
 | Audi                              | Year   | Country   | Comment                                                                                        | Todo | Identifier                     | Rating         | Tuner        | Designer                  | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type           | Special |
 | --------------------------------- | ------ | --------- | ---------------------------------------------------------------------------------------------- | ---- | ------------------------------ | -------------- | ------------ | ------------------------- | -------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | ---------------------- | ------- |
@@ -86,12 +86,12 @@ Letter I
 
 Letter J
 
-| Jaguar  | Year   | Country   | Comment | Todo | Identifier                         | Rating         | Tuner        | Designer        | Class                  | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Special |
-| ------- | ------ | --------- | ------- | ---- | ---------------------------------- | -------------- | ------------ | --------------- | ---------------------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ------- |
-| XJ-S FE | `1990` | `england` |         |      | "White with black accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
-| XJ-S FE | `1990` | `england` |         |      | "Black with red accents livery."   | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900`               | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |         |
-| XJ-S FE | `1990` | `england` |         |      | "Black with white accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`                | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |         |
-| XJ-S FE | `1990` | `england` |         |      | "Red livery with dark red flag."   | `rate_pending` | `tuner_yura` | `designer_yura` | `drag_non-competitive` | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip`          | `drift-cars` |         |
+| Jaguar  | Year   | Country   | Comment | Todo | Identifier                         | Rating         | Tuner        | Designer        | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Times                  | Special |
+| ------- | ------ | --------- | ------- | ---- | ---------------------------------- | -------------- | ------------ | --------------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ---------------------- | ------- |
+| XJ-S FE | `1990` | `england` |         |      | "White with black accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `S1-800` | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |                        |
+| XJ-S FE | `1990` | `england` |         |      | "Black with red accents livery."   | `rate_pending` | `tuner_yura` | `designer_yura` | `S2-900` | `RWD`        | `free`     | `off`            | `general` | `drift_appropriate-rwd`    | `drift-cars` |                        |
+| XJ-S FE | `1990` | `england` |         |      | "Black with white accents livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998`  | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |                        |
+| XJ-S FE | `1990` | `england` |         |      | "Red livery with dark red flag."   | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`     | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip`          | `drift-cars` | DS-13.059-11.151-7.379 |         |
 
 ---
 
@@ -189,7 +189,7 @@ Below are all the possible tags that each car can have, with some explanation:
         - [rate_for-fun]: Either couldn't achieve an optimal score, or was never intended to be used competitively.
         - [rate_pending]: Testing needed.
       - CREATORS | TUNER: [ tuner_yura | tuner_name | tuner_community-made ] LIVERY: [ designer_yura | designer_name | designer_community-made ]
-      - TAGS | CLASS: [ X | R-998 | S2-900 | S1-800 | A-700 | B-600 | C-500 | D-400 | drag_non-competitive ] DRIVE: [ AWD | RWD | FWD ] BUILD_TYPE: [ free | purist_strict | purist_general | purist_lite ] TRACTION_CONTROL: [ mandatory | preferred | off ] TRACK: [ general | -track_name_if_purpose_built- ] PRINCIPLE: [ List below ] INGAME_TYPE: [ List below ] SPECIAL: [ Information below, situational tag ]
+      - TAGS | CLASS: [ X | R-998 | S2-900 | S1-800 | A-700 | B-600 | C-500 | D-400 | NA (not built for competition) ] DRIVE: [ AWD | RWD | FWD ] BUILD_TYPE: [ free | purist_strict | purist_general | purist_lite ] TRACTION_CONTROL: [ mandatory | preferred | off ] TRACK: [ general | -track_name_if_purpose_built- ] PRINCIPLE: [ List below ] INGAME_TYPE: [ List below ] SPECIAL: [ Information below, situational tag ]
 
 REFERENCE ON BUILD_TYPE TAGS:
 
@@ -286,7 +286,13 @@ INGAME_TYPE TAGS:
 - utvs
 - utility-heroes
 
-SPECIAL TAGS: These are non-standard tags that I will add manually, in case a car is part of a 'collection' of some sort. You do not need to concern yourself with it, and if I don't explicitely tell you to add a SPECIAL tag, you can even omit the entry from the actual listing.
+TIMES TAGS: Non-standard tags that I add manually, you can omit them. Here's how the short tags work:
+
+- DS stands for Drag Strips. The following three numbers are the car's best times on kilometer strip - half mile strip - quarter mile strip.
+
+SPECIAL TAGS: Non-standard tags that I will add manually, you can omit them. Here's when I use them:
+
+- If a car is part of a collection. (Only so far.)
 
 ---
 
