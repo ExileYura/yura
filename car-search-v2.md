@@ -70,10 +70,10 @@ Letter E
 
 Letter F
 
-| Ford                       | Year   | Country | Comment        | Todo | Identifier  | Rating         | Tuner                  | Designer        | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type     | Times | Special |
-| -------------------------- | ------ | ------- | -------------- | ---- | ----------- | -------------- | ---------------------- | --------------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ---------------- | ----- | ------- |
-| Mustang GT 2+2 Fastback FE | `1968` | `usa`   | "Make livery." |      | "Pending."  | `rate_pending` | `tuner_ChromeProto517` |                 | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars`     |       |
-| Mustang GT Coupe           | `1965` | `usa`   |                |      | "Drag Flag" | `rate_pending` | `tuner_yura`           | `designer_yura` | `NA`     | `AWD`        | `free`     | `off`            | `general` | `drag-long-strip`          | `classic-muscle` |       |
+| Ford                       | Year   | Country | Comment        | Todo | Identifier  | Rating         | Tuner                  | Designer        | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type     | Times                       | Special |
+| -------------------------- | ------ | ------- | -------------- | ---- | ----------- | -------------- | ---------------------- | --------------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ---------------- | --------------------------- | ------- |
+| Mustang GT 2+2 Fastback FE | `1968` | `usa`   | "Make livery." |      | "Pending."  | `rate_pending` | `tuner_ChromeProto517` |                 | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars`     |                             |         |
+| Mustang GT Coupe           | `1965` | `usa`   |                |      | "Drag Flag" | `rate_pending` | `tuner_yura`           | `designer_yura` | `NA`     | `AWD`        | `free`     | `off`            | `general` | `drag-long-strip`          | `classic-muscle` | DS: 14.322 - 12.502 - 7.864 |         |
 
 ---
 
