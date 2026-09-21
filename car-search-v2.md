@@ -52,11 +52,15 @@ Letter C
 
 | Chevrolet | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle         | In-game Type   | Times                       | Special |
 | --------- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | ----------------- | -------------- | --------------------------- | ------- |
-| Bel Air   | `1957` | `usa`   |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip` | `rods-customs` | DS: 14.287 - 12.340 - 7.933 |         |
+| Bel Air   | `1957` | `usa`   |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip` | `rods-customs` | DS: 14.256 - 12.340 - 7.933 |         |
 
 ---
 
 Letter D
+
+| Dodge            | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle         | In-game Type | Times                       | Special |
+| ---------------- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | ----------------- | ------------ | --------------------------- | ------- |
+| Viper SRT-10 ACR | `2008` | `usa`   |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `RWD`        | `free`     | `off`            | `general` | `drag-long-strip` | `track-toys` | DS: 14.249 - 12.330 - 8.088 |         |
 
 ---
 
@@ -66,9 +70,10 @@ Letter E
 
 Letter F
 
-| Ford                       | Year   | Country | Comment        | Todo | Identifier | Rating         | Tuner                  | Designer | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type | Times | Special |
-| -------------------------- | ------ | ------- | -------------- | ---- | ---------- | -------------- | ---------------------- | -------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ------------ | ----- | ------- |
-| Mustang GT 2+2 Fastback FE | `1968` | `usa`   | "Make livery." |      | "Pending." | `rate_pending` | `tuner_ChromeProto517` |          | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars` |       |
+| Ford                       | Year   | Country | Comment        | Todo | Identifier  | Rating         | Tuner                  | Designer        | Class    | Driveterrain | Build Type | Traction Control | Track     | Principle                  | In-game Type     | Times | Special |
+| -------------------------- | ------ | ------- | -------------- | ---- | ----------- | -------------- | ---------------------- | --------------- | -------- | ------------ | ---------- | ---------------- | --------- | -------------------------- | ---------------- | ----- | ------- |
+| Mustang GT 2+2 Fastback FE | `1968` | `usa`   | "Make livery." |      | "Pending."  | `rate_pending` | `tuner_ChromeProto517` |                 | `S2-900` | `AWD`        | `free`     | `off`            | `general` | `drift_point-drifting-awd` | `drift-cars`     |       |
+| Mustang GT Coupe           | `1965` | `usa`   |                |      | "Drag Flag" | `rate_pending` | `tuner_yura`           | `designer_yura` | `NA`     | `AWD`        | `free`     | `off`            | `general` | `drag-long-strip`          | `classic-muscle` |       |
 
 ---
 
