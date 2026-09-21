@@ -87,6 +87,10 @@ Letter G
 
 Letter H
 
+| Honda | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle         | In-game Type         | Times                       | Special |
+| ----- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | ----------------- | -------------------- | --------------------------- | ------- |
+| N600  | `1970` | `japan` |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag-long-strip` | `eclectic-domestics` | DS: 14.586 - 12.357 - 7.650 |         |
+
 ---
 
 Letter I
@@ -118,17 +122,23 @@ Letter L
 
 Letter M
 
+| Mazda       | Year   | Country | Comment | Todo | Identifier   | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle         | In-game Type        | Times                       | Special |
+| ----------- | ------ | ------- | ------- | ---- | ------------ | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | ----------------- | ------------------- | --------------------------- | ------- |
+| RX-7 Type R | `1992` | `japan` |         |      | "Drag Flag." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag-long-strip` | `retro-sports-cars` | DS: 13.680 - 11.626 - 7.481 |
+
 | McLaren | Year   | Country   | Comment | Todo | Identifier             | Rating         | Tuner        | Designer        | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle        | In-game Type | Times | Special |
 | ------- | ------ | --------- | ------- | ---- | ---------------------- | -------------- | ------------ | --------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------- | ------------ | ----- | ------- |
 | W1      | `2025` | `england` |         |      | "Two-tone blue paint." | `rate_pending` | `tuner_yura` | `designer_yura` | `R-998` | `AWD`        | `free`     | `off`            | `general` | `road_technical` | `hypercars`  |       |
 
+| Mercedes-Benz          | Year   | Country   | Comment | Todo                                                  | Identifier                            | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle         | In-game Type     | Times                       | Special |
+| ---------------------- | ------ | --------- | ------- | ----------------------------------------------------- | ------------------------------------- | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | ----------------- | ---------------- | --------------------------- | ------- |
+| 300 SL Coupé           | `1954` | `germany` |         | "Poor time, remake in AWD, or a different principle." | "Drag Flag."                          | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `RWD`        | `free`     | `off`            | `general` | `drag-long-strip` | `rare-classics`  | DS: 16.093 - 13.966 - 9.092 |         |
+| 300 SLR                | `1955` | `germany` |         | "Remake livery."                                      | "White and Blue."                     | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag-long-strip` | `classic-racers` | DS: 13.785 - 11.869 - 7.722 |
+| SL 65 AMG Black Series | `2009` | `germany` |         |                                                       | "Light gray body, dark gray accents." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip` | `super-gt`       | DS: 14.429 - 12.449 - 7.938 |         |
+
 | Mitsubishi               | Year   | Country | Comment | Todo | Identifier                       | Rating         | Tuner        | Designer                  | Class   | Driveterrain | Build Type | Traction Control | Track     | Principle                                                        | In-game Type   | Times | Special                                |
 | ------------------------ | ------ | ------- | ------- | ---- | -------------------------------- | -------------- | ------------ | ------------------------- | ------- | ------------ | ---------- | ---------------- | --------- | ---------------------------------------------------------------- | -------------- | ----- | -------------------------------------- |
 | Lancer Evolution VIII MR | `2004` | `japan` |         |      | "Need For Speed #9 Earl Livery." | `rate_pending` | `tuner_yura` | `designer_community-made` | `A-700` | `AWD`        | `free`     | `off`            | `general` | `rally_mixed-surface` `snow_competent` `cross-country_competent` | `modern-rally` |       | `collection-livery_most-wanted_9-earl` |
-
-| Mercedes-Benz          | Year   | Country   | Comment | Todo | Identifier                            | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle         | In-game Type | Times                       | Special |
-| ---------------------- | ------ | --------- | ------- | ---- | ------------------------------------- | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | ----------------- | ------------ | --------------------------- | ------- |
-| SL 65 AMG Black Series | `2009` | `germany` |         |      | "Light gray body, dark gray accents." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag_long-strip` | `super-gt`   | DS: 14.429 - 12.449 - 7.938 |         |
 
 ---
 
