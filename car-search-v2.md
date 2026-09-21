@@ -176,6 +176,10 @@ Letter S
 
 Letter T
 
+| Toyota                  | Year   | Country | Comment | Todo | Identifier     | Rating         | Tuner        | Designer        | Class | Driveterrain | Build Type | Traction Control | Track     | Principle         | In-game Type          | Times                       | Special |
+| ----------------------- | ------ | ------- | ------- | ---- | -------------- | -------------- | ------------ | --------------- | ----- | ------------ | ---------- | ---------------- | --------- | ----------------- | --------------------- | --------------------------- | ------- |
+| Crown Super Deluxe Taxi | `2005` | `japan` |         |      | "Taxi livery." | `rate_pending` | `tuner_yura` | `designer_yura` | `NA`  | `AWD`        | `free`     | `off`            | `general` | `drag-long-strip` | `retro-super-saloons` | DS: 15.513 - 13.190 - 8.550 |
+
 ---
 
 Letter U
